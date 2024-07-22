@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<RunConfiguration>
+		<!-- Define the order of feature files to be executed -->
+		<TestOrder>
+			<Order>Features/F01_Register.feature</Order>
+			<Order>Features/F02_Login.feature</Order>
+			<Order>Features/F03_UpdateUserAccount.feature</Order>
+			<Order>Features/F05_HoverCategiriesAndPutchase.feature</Order>
+			<!-- Add more feature files as needed -->
+		</TestOrder>
+	</RunConfiguration>
+</RunSettings>

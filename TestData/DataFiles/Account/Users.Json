@@ -1,0 +1,16 @@
+[
+  {
+    "FirstName": "Nikki",
+    "LastName": "Mike",
+    "ValidEmailAddress": "testAutomation_vh2vd@test.com",
+    "InValidEmailAddress": "testAutomation_q017u@test.",
+    "Password": "PinkSt@r123",
+    "InvalidPassword": "PinkStr12",
+    "Gender": "Female",
+    "Country": "Greece",
+    "City": "Athens",
+    "Address": "Greece, Attica, Athens",
+    "MobileNumber": "+301091093985",
+    "PostalCode": "11252"
+  }
+]
